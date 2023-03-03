@@ -1,16 +1,20 @@
-### Hi there 👋
+> http://localhost:8080/mclemente/index.html
 
-<!--
-**mauclema/mauclema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# FORMACIÓN ACADÉMICA
+---
+-   **Máster** Univeristario de Ingeniería Aeronáutica
+-   **Grado** en Ingeniería Aeronáutica
+-   Ingeniero **Técnico** Industrial, *especialidad en Mecánica*
 
-Here are some ideas to get you started:
+# SKILLS
+---
+- Idiomas: ``Inglés`` ``Español``
+- Aficiones:   `Esqui` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# COMANDOS MARKDOWN
+---
+|Name|Description|
+|---|----|
+|ls|list|
+|**cd**|change current *directory*|
+|pwd|print current working directory|
