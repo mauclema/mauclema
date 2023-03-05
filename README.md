@@ -18,3 +18,4 @@
 |ls|list|
 |**cd**|change current *directory*|
 |pwd|print current working directory|
+|code .|open VS Code|
